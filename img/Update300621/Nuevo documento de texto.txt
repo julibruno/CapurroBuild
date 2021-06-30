@@ -1,0 +1,31 @@
+OBRA EN SANTA LUCIA PILAR DEL ESTE
+OBRA EN BARRIO SAN SEBASTIAN PILAR
+OBRA EN BARRIO PRIVADO NORDELTA 
+CONSTRUCCION EN SANTA LUCIA PILAR DEL ESTE
+CONSTRUCCION EN PILAR PROVINCIA DE BUENOS AIRES.
+
+
+
+
+
+
+Opcion 7
+ font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif !important;
+
+Opcion 6
+ font-family:Georgia, 'Times New Roman', Times, serif !important;
+
+Opcion 5
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+
+Opcion 4
+font-family:'Courier New', Courier, monospace, arial !important;
+
+Opcion 3
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, arial !important;
+
+Opcion 2
+    font-family: Merriweather, arial !important;
+
+Opcion 1
+font-family: verdana, arial !important;
